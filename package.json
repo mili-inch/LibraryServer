@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "byline": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.0.5",
+    "express": "^4.17.2",
+    "iconv": "^3.0.1",
+    "log4js": "^6.4.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.15.0",
+    "strip-bom-stream": "4.0.0"
+  }
+}
